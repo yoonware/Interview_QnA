@@ -1,6 +1,6 @@
 # Java
-1. [JVM](#-1-jvm)
-2. [Garbage Collection](#-2-garbage-collection)
+1. [JVM](#1-jvm)
+2. [Garbage Collection](#2-garbage-collection)
 
 </br>
 
