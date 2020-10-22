@@ -1,6 +1,6 @@
 # Data Structure
 
-* [Tree](##tree)
+* [Tree](#tree)
 
 <br>
 
