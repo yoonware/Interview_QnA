@@ -1,7 +1,5 @@
 # Interview_QnA
 
-<br>
-
 ## Software Engineering
 - [객체지향 프로그래밍](https://github.com/yoonware/Interview_QnA/blob/master/Software%20Engineering/Object-Oriented%20Programming.md)
 
